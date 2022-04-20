@@ -1,0 +1,66 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0px;
+    background-image: url(https://fondosmil.com/fondo/20916.jpg);
+}
+
+header {
+    background-color: #09C7DE;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    overflow: hidden;
+    background-color: black;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: aqua;
+    text-align: center;
+    padding: 15px 20px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: black;
+    background-color: #1BDCFE;
+}
+
+main {
+    padding: 20px 80px;
+}
+
+main p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+footer {
+    background-color: #09C7DE ;
+    text-align: center;
+    padding: 10px;
+    bottom: 0px;
+    width: 98.5%;
+}
+
+img {
+
+    width: 30%;
+}
+
+p img {
+    width: 10%;
+}
+
+input {
+    padding: 10px 15px;
+    width: 40%;
+}
+form{
+    margin-top: 5%;
+    text-align: center;
+}
